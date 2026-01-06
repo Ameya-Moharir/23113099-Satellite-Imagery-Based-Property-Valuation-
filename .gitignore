@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Large files (don't upload to GitHub)
+data/images/
+*.pkl
+outputs/processed_data.pkl
+outputs/scaler.pkl
+outputs/best_model.pkl
+
+# Keep structure
+!.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
