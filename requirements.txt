@@ -1,0 +1,23 @@
+# Core packages - latest versions
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+
+# Deep Learning - latest versions
+torch
+torchvision
+
+# Image Processing - latest versions
+Pillow
+opencv-python
+requests
+
+# Utilities - latest versions
+tqdm
+
+# Jupyter - latest versions
+jupyter
+notebook
